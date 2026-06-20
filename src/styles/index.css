@@ -27,7 +27,7 @@ body {
   gap: 0.5rem;
 }
 
-@media (width >= 560px) {
+@media (width >= 750px) {
   .product-card-container {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
